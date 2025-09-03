@@ -1,0 +1,33 @@
+name: gestao_eventos
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  cupertino_icons: ^1.0.8
+  material_color_utilities: ^0.11.1
+  meta: ^1.16.0
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  lints: ^5.1.1
+  async: ^2.12.0
+  fake_async: ^1.3.2
+  test_api: ^0.7.4
+  leak_tracker: ^10.0.8
+  leak_tracker_testing: ^3.0.1
+  leak_tracker_flutter_testing: ^3.0.9
+  vm_service: ^14.3.1
+
+flutter:
+  uses-material-design: true

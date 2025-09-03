@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\inscricaocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\inscricaocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\novapasta1\\inscricaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\novapasta1\\inscricaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\tipo_pagamentocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\tipo_pagamentocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\tipo_pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\tipo_pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\estado_pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\estado_pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\utilizadorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\utilizadorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\eventocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\eventocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\log_logincontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\log_logincontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\localizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\localizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\espacocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\espacocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\espaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\espaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\estatutocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\estatutocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\controllers\\estado_pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\controllers\\estado_pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\estatuto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\estatuto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|c:\\users\\guilh\\downloads\\gestaoeventos (2)\\gestaoeventos\\carrosapi2\\carrosapi2\\models\\tipo_evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DE16A4-3CA7-422C-AAA6-9165F3F11A70}|CarrosAPI2\\GestaoEventosAPI.csproj|solutionrelative:carrosapi2\\models\\tipo_evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inscricao.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Inscricao.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Inscricao.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Inscricao.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Inscricao.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:19:32.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tipo_Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Tipo_Pagamento.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Tipo_Pagamento.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Tipo_Pagamento.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Tipo_Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:50:39.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CarrosAPI2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:11:38.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tipo_PagamentoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\Tipo_PagamentoControllers.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\Tipo_PagamentoControllers.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\Tipo_PagamentoControllers.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\Tipo_PagamentoControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:15:00.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InscricaoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\InscricaoControllers.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\InscricaoControllers.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\InscricaoControllers.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\InscricaoControllers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:47:26.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InscricaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\NovaPasta1\\InscricaoDTO.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\NovaPasta1\\InscricaoDTO.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\NovaPasta1\\InscricaoDTO.cs",
+              "RelativeToolTip": "CarrosAPI2\\NovaPasta1\\InscricaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:35:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UtilizadorControllers.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\UtilizadorControllers.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\UtilizadorControllers.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\UtilizadorControllers.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\UtilizadorControllers.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:59:02.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estado_Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Estado_Pagamento.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Estado_Pagamento.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Estado_Pagamento.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Estado_Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:58:35.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Staff.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Staff.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:30:02.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Utilizador.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Utilizador.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Utilizador.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:08:27.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Program.cs",
+              "RelativeToolTip": "CarrosAPI2\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:09:18.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Log_LoginControllers.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\Log_LoginControllers.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\Log_LoginControllers.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\Log_LoginControllers.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\Log_LoginControllers.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvysAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:22:12.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\EventoControllers.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\EventoControllers.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\EventoControllers.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\EventoControllers.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:17:15.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Evento.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Evento.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:47:21.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:48:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:47:43.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\appsettings.json",
+              "RelativeDocumentMoniker": "CarrosAPI2\\appsettings.json",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\appsettings.json",
+              "RelativeToolTip": "CarrosAPI2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T14:09:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Localizacao.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Localizacao.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Localizacao.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Localizacao.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Localizacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:22:50.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Despesas.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Despesas.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Despesas.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Despesas.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Despesas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:51:18.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EspacoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\EspacoControllers.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\EspacoControllers.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\EspacoControllers.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\EspacoControllers.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:44:30.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarrosAPI2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T14:40:20.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Espaco.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Espaco.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Espaco.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Espaco.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Espaco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:44:11.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Estatuto.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Estatuto.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Estatuto.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Estatuto.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Estatuto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:44:20.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EstatutoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\EstatutoControllers.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\EstatutoControllers.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\EstatutoControllers.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\EstatutoControllers.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:45:39.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Estado_PagamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\Estado_PagamentoController.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Controllers\\Estado_PagamentoController.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Controllers\\Estado_PagamentoController.cs",
+              "RelativeToolTip": "CarrosAPI2\\Controllers\\Estado_PagamentoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:44:47.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tipo_Evento.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Tipo_Evento.cs",
+              "RelativeDocumentMoniker": "CarrosAPI2\\Models\\Tipo_Evento.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\GestaoEventos (2)\\GestaoEventos\\CarrosAPI2\\CarrosAPI2\\Models\\Tipo_Evento.cs",
+              "RelativeToolTip": "CarrosAPI2\\Models\\Tipo_Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:35:17.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
